@@ -1,3 +1,78 @@
-.heading {display: flex;
+body{margin: 0;}
+.headingofthesite{text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+background-image: linear-gradient(rgb(63, 242, 255),rgb(10, 245, 147));
+text-decoration: none;
+padding: 15px 10px;
+border-radius: 20px;
+font-weight: 400;
+color: rgb(20, 1, 129);
+font-size: 30px;
+margin-bottom: 150px;
+
 }
-.headingcolor {color: cyan;}
+.welcome {display: flex;
+    margin-bottom: px;
+}
+.headingcolor {color: rgb(44, 144, 236);}
+.link{margin-bottom: 2px;
+     text-decoration:none;
+    padding: 6px 12px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(136, 253, 195),rgb(169, 240, 240));
+    color: rgb(8, 77, 2);
+font-weight: 700;}
+.fontdetails{text-align:justify;
+    margin-top: 170px;
+    margin-left: 40px;
+    font width: 34%;
+
+
+}
+.imgsection1{ width: 60%;
+height: 60%;}
+.aboutmefalsething{display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    ;
+    background-position: left;
+    background-image width: 100%;
+}
+.mypic{margin-left: 60px;}
+p{margin-bottom: 20px;
+margin-top: 20px;
+font-family: 'Bona Nova', serif;
+font size : 25px; }
+#falseme{text-aligcenter;}
+.detailsonme{width: 50%;
+text-align:justify;
+ }
+ .myfalseself{
+     margin-left : 100px; ;}
+     h1{font-size: 57px;
+        font-family: 'Zen Loop', cursive;
+    font-weight: 900
+    ;}
+     p{font-size: 18px;}
+     .recipies{display: flex;}
+   
+     footer{background-color: tomato;
+    text-align: center;
+margin: 0%;
+padding: 0%;}
+h3{font-family: 'Bona Nova', serif;
+font-size: 38px;
+font-weight: 500;}
+.recipe{margin: 3%;
+    width: 40%;
+box-shadow: 10px 10px 20px rgb(170, 170, 170);}
+.social-media{margin-top: 100px;
+    display: flex;
+border-radius: 10px;
+box-shadow: 20px 20px 80px gray;
+margin-left: 20px;
+margin-right: 20px;}
+.links{margin-left: 200px;}
+    
